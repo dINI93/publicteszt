@@ -2,3 +2,8 @@ language: node_js
 
 node_js:
   - "7"
+
+script:
+  - "echo 'alma'"
+  - npm install
+  - "echo 'alma2'"
